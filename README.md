@@ -67,3 +67,21 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+
+# Product Layout
+
+```
+? Project name: nuxt-card
+? Programming language: TypeScript
+? Package manager: Npm
+? UI framework: Tailwind CSS
+? Nuxt.js modules: Axios - Promise based HTTP client, Progressive Web App (PWA)
+? Linting tools: ESLint
+? Testing framework: None
+? Rendering mode: Universal (SSR / SSG)
+? Deployment target: Server (Node.js hosting)
+? Development tools: jsconfig.json (Recommended for VS Code if you're not using typescript)
+? Continuous integration: None
+? Version control system: Git
+```
